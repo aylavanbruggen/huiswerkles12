@@ -1,0 +1,56 @@
+body{
+    font-size: 18px}
+    table{border-collapse: collapse;width: 800px;}
+    td, th{padding: 10px 10px}
+h1 {
+    background-color: red;}
+#vis{
+    background-color: midnightblue;
+        color: chocolate;}
+    #vis1{
+    background-color: orange;
+        color: bisque;}    
+    #vis2{
+        background-color: peru;
+            color: blue;}
+        #vis3{
+            background-color: yellowgreen ;
+                color: crimson;}
+            #vis4{
+                background-color: maroon;
+                    color: gold;}
+
+#foto1{
+    background-color: deeppink;}
+    #foto2 {
+        background-color: darkorange;}
+        #foto3 {
+            background-color: gold;}
+            #foto4{
+                background-color: goldenrod;}
+                #foto5{
+                    background-color: darkviolet;}
+                    #foto6{
+                        background-color: fuchsia;}
+                        #foto7{
+                            background-color: darkolivegreen;}
+                            #foto8{
+                                background-color: blue;}
+
+                                #haai{
+                                    background-color: powderblue;
+                                        color: firebrick;}
+                                    #haai1{
+                                    background-color: palevioletred;
+                                        color: indigo;}    
+                                    #haai2{
+                                        background-color: purple;
+                                            color: teal;}
+                                        #haai3{
+                                            background-color: mediumseagreen ;
+                                                color: darkorange;}
+                                            #haai4{
+                                                background-color: mistyrose;
+                                                    color: lime;}
+ footer {
+    background-color: red;}
